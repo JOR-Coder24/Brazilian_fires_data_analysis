@@ -1,4 +1,6 @@
-#Brazilian Amazon Fires (1999-2019) Data Analysis
+# Brazilian Amazon Fires (1999-2019) Data Analysis
+
+
 Need to download pandas matplotlib & plotly
 
 This repository contains a Python project that analyses the Brazilian Amazon fire data from 1999 to 2019. The dataset includes information on the number of fires in various states across Brazil, along with their geographical locations.

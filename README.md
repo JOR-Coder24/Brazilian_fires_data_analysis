@@ -25,4 +25,4 @@ A bar chart showing the average firespots by state.
 An interactive map visualising the density of fire incidents across Brazil.
 
 
-WARNING-If you run this all togetherm it produces a LOT of data so you want to comment out the necessary parts,
+WARNING-If you run this all together, it will  produce a LOT of data so you want to comment out the necessary parts,

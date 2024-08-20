@@ -9,6 +9,7 @@ print(data) #print all the data
 
 df = pd.read_csv('brazilian_amazon_fires_1999_2019.csv', nrows=5)#print the first n rows of the file
 print(df)
+print("The total number of firespots is: " ,data["firespots"].sum())#displays total sum of firespots
 print("The most common state of the fires is ", data["state"].mode())#Finds the mode of states
 print("The average number of firespots is ", data["firespots"].mean())
 print("The median of firespots is ", data["firespots"].median())#median of firespots
